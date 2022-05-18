@@ -23,6 +23,7 @@
 - [Yusuf Rabiu](https://github.com/stackkrocket)
 - [Luck Tran](https://github.com/lucktran)
 - [Joshua Goldstein]
+- [Nisarg Mahale](https://github.com/fiery256)
 - [Shreyes Gadwalkar] (https://github.com/ShreyesGadwalkar)
 - [Namit Saxena] (https://github.com/oddball1123)
 - [Abhinav](https://github.com/malteezy)
